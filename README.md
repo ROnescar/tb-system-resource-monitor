@@ -51,7 +51,7 @@ python main.py
 
 **Live monitor**
 
-![Live monitor](screenshots/live_monitor.png)
+![Live monitor](screenshots/live-monitor.png)
 
 ## Known Limitations
 - Measuring CPU usage takes about 1 second, so the status screen and snapshots pause briefly before showing results.
