@@ -1,0 +1,18 @@
+# Python cache files (created automatically when Python runs)
+__pycache__/
+*.pyc
+
+# Virtual environment (only if you created one)
+.venv/
+venv/
+
+# Operating system / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Personal test file
+scratch.py
+
+# Generated snapshot logs (keep the folder, ignore the data)
+logs/*.csv
